@@ -1,0 +1,16 @@
+# Compiled Java files
+*.class
+out/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Environment and secret files
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
